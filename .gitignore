@@ -13,3 +13,6 @@
 /build
 /src
 /.vscode
+
+# dataset
+/huggingface_cache
